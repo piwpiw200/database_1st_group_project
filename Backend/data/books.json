@@ -1,0 +1,102 @@
+[
+    {
+      "_id": 1,
+      "title": "How to Grow Your Online Store",
+      "description": "Learn the best strategies to grow your online store in today's competitive market.",
+      "category": "business",
+      "trending": true,
+      "coverImage": "book-1.png",
+      "oldPrice": 29.99,
+      "newPrice": 19.99
+    },
+    {
+      "_id": 2,
+      "title": "Top 10 Fiction Books This Year",
+      "description": "A curated list of the best fiction books that are trending this year.",
+      "category": "books",
+      "trending": true,
+      "coverImage": "book-2.png",
+      "oldPrice": 24.99,
+      "newPrice": 14.99
+    },
+    {
+      "_id": 3,
+      "title": "Mastering SEO in 2024",
+      "description": "Tips and tricks to boost your SEO and rank higher on search engines.",
+      "category": "marketing",
+      "trending": true,
+      "coverImage": "book-3.png",
+      "oldPrice": 39.99,
+      "newPrice": 29.99
+    },
+    {
+      "_id": 4,
+      "title": "Best eCommerce Platforms",
+      "description": "A comprehensive guide on choosing the best eCommerce platforms for 2024.",
+      "category": "business",
+      "trending": false,
+      "coverImage": "book-4.png",
+      "oldPrice": 49.99,
+      "newPrice": 39.99
+    },
+    {
+      "_id": 5,
+      "title": "Non-Fiction Reads You Must Try",
+      "description": "Our top picks for non-fiction books to add to your reading list.",
+      "category": "books",
+      "trending": true,
+      "coverImage": "book-5.png",
+      "oldPrice": 19.99,
+      "newPrice": 9.99
+    },
+    {
+      "_id": 6,
+      "title": "Ultimate Guide to Digital Marketing",
+      "description": "A complete guide to digital marketing strategies for 2024.",
+      "category": "marketing",
+      "trending": false,
+      "coverImage": "book-6.png",
+      "oldPrice": 44.99,
+      "newPrice": 34.99
+    },
+    {
+      "_id": 7,
+      "title": "The First Days",
+      "description": "Katie is driving to work one beautiful day when a dead man jumps into her car and tries to eat her.  That same morning, Jenni opens a bedroom door to find her husband devouring their toddler son. ",
+      "category": "horror",
+      "trending": true,
+      "coverImage": "book-7.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    {
+      "_id": 8,
+      "title": "The Hunger Games",
+      "description": "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?",
+      "category": "fiction",
+      "trending": true,
+      "coverImage": "book-8.png",
+      "oldPrice": 21.99,
+      "newPrice": 16.99
+    },
+    {
+      "_id": 9,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "description": "Harry Potter is about to start his fifth year at Hogwarts School of Witchcraft and Wizardry. Unlike most schoolboys, Harry never enjoys his summer holidays",
+      "category": "adventure",
+      "trending": false,
+      "coverImage": "book-9.png",
+      "oldPrice": 27.99,
+      "newPrice": 18.99
+    },
+    {
+      "_id": 10,
+      "title": "Pride and Prejudice",
+      "description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring.",
+      "category": "fiction",
+      "trending": true,
+      "coverImage": "book-10.png",
+      "oldPrice": 14.99,
+      "newPrice": 10.99
+    }
+  ]
